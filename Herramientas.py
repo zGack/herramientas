@@ -2,6 +2,7 @@ def operacion():
     opt = str(input("Que opcion desea realizar?[suma - resta - multiplicacion - division]: "))
     n1 = int(input("Digite el primer numero; "))
     n2 = int(input("Digite el segundo numero; "))
+    print("hola bellaco")
 
     if(opt == "suma"):
         resultado = n1 + n2
