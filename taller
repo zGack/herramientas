@@ -1,0 +1,5 @@
+def palabra():
+    x = str(input("Ingrese una palabra: "))
+    print(x)
+    print("hola mundo")
+palabra()
